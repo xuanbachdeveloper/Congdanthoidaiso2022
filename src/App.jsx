@@ -9,7 +9,8 @@ import {
   Navbar,
   Testimonials,
   Hero,
-  Tingia
+  Tingia,
+  Baocao
 } from "./components";
 import Card from "./components/Card";
 
@@ -39,6 +40,7 @@ function App() {
           <Testimonials />
           <Tingia />
           <Card />
+          <Baocao />
           <CTA />
           <Footer />
         </div>

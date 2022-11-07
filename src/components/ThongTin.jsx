@@ -61,7 +61,7 @@ function ThongTin() {
         </Fade>
       </div>
 
-      <div className={` flex-col`}>
+      <div className={`flex-col`}>
         {features.map((feature, index) => (
           <Fade bottom>
             <FeatureCard key={feature.id} {...feature} index={index} />

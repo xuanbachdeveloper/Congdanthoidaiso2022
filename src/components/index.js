@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import Tingia from "./Tingia";
-
+import Baocao from "./Baocao";
 export {
   Navbar,
   Tinrac,
@@ -17,5 +17,6 @@ export {
   Footer,
   Testimonials,
   Hero,
-  Tingia
+  Tingia,
+  Baocao
 };

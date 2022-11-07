@@ -18,6 +18,7 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import iphone from "./iphone8plus.png";
 import laptop from "./laptop.png";
+import report from "./Report.png"
 
 export {
   airbnb,
@@ -39,5 +40,6 @@ export {
   linkedin,
   twitter,
   iphone,
-  laptop
+  laptop,
+  report
 };
